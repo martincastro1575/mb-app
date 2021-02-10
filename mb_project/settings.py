@@ -26,7 +26,7 @@ SECRET_KEY = ')r=vczdx)vs(8tnhkgw$02ribtoblx(#6tddvg8g)&$3^4xfls'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
